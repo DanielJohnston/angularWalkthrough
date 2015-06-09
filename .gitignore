@@ -1,3 +1,7 @@
+### This particular application private key ###
+
+localKeyFile.js
+
 ### Bower ###
 bower_components
 .bower-cache
